@@ -9,7 +9,7 @@ Run through before ending each session.
 
 ## Documentation
 
-- [ ] `claude-progress.md` updated with session record
+- [ ] `agent-progress.md` updated with session record
 - [ ] `feature_list.json` reflects actual state
 - [ ] No `passing` status without evidence
 

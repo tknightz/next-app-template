@@ -2,7 +2,7 @@
 
 ## Startup Workflow
 
-1. Read `claude-progress.md` to understand current state
+1. Read `agent-progress.md` to understand current state
 2. Read `feature_list.json` to see feature priorities and status
 3. Run `./init.sh` to verify environment is ready
 4. Run `./verify.sh` to confirm baseline is passing
@@ -14,7 +14,7 @@
 - Update `feature_list.json` status as you progress
 - Run verification after each significant change
 - Record evidence when verification passes
-- Update `claude-progress.md` at session end
+- Update `agent-progress.md` at session end
 
 ## Commands
 
@@ -37,7 +37,7 @@ A feature is complete when:
 
 ## Session End
 
-1. Update `claude-progress.md` with session record
+1. Update `agent-progress.md` with session record
 2. Run `clean-state-checklist.md` items
 3. Commit changes with descriptive message
 4. Leave repo in a state where next session can start cleanly
