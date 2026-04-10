@@ -1,0 +1,19 @@
+{
+  "features": [
+    {
+      "id": "example-feature",
+      "priority": 1,
+      "area": "core",
+      "title": "Example feature - replace with real features",
+      "user_visible_behavior": "Describe what the user should see when this feature works",
+      "status": "not_started",
+      "verification": [
+        "Step 1: Run the dev server",
+        "Step 2: Navigate to relevant page",
+        "Step 3: Confirm expected behavior"
+      ],
+      "evidence": null,
+      "notes": "Replace this with actual project features"
+    }
+  ]
+}
