@@ -1,6 +1,6 @@
 ---
 name: ui-design
-description: Use when designing UI components, layouts, styling, color systems, typography, responsive interfaces, or visual design decisions. Activates for CSS, Tailwind, theming, and component styling work.
+description: You MUST use when designing UI components, layouts, styling, color systems, typography, responsive interfaces, or visual design decisions. Activates for CSS, Tailwind, theming, and component styling work.
 ---
 
 # UI Design Guidelines
