@@ -11,6 +11,8 @@
 ## Working Rules
 
 - Work on ONE feature at a time
+- Follow TDD, write tests before coding
+- Before designing any components use ui-design skill
 - Update `feature_list.json` status as you progress
 - Run verification after each significant change
 - Record evidence when verification passes

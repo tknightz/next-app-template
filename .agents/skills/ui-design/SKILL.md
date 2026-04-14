@@ -5,7 +5,7 @@ description: You MUST use when designing UI components, layouts, styling, color 
 
 # UI Design Guidelines
 
-Design guidelines for creating polished, accessible, and responsive user interfaces.
+Design guidelines for creating polished, accessible, and responsive user interfaces. If you design from scratch, you MUST create DESIGN.md if not existing, and follow it for the next time.
 
 ## Color System
 
