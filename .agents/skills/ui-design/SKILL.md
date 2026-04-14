@@ -1,11 +1,70 @@
 ---
 name: ui-design
-description: You MUST use when designing UI components, layouts, styling, color systems, typography, responsive interfaces, or visual design decisions. Activates for CSS, Tailwind, theming, and component styling work.
+description: MANDATORY before ANY styling work. Triggers for: designing UI components, layouts, CSS/Tailwind changes, color systems, typography, responsive design, creating/editing .css/.scss files, modifying Tailwind classes, theming, visual design decisions, or creating DESIGN.md files.
 ---
 
 # UI Design Guidelines
 
 Design guidelines for creating polished, accessible, and responsive user interfaces. If you design from scratch, you MUST create DESIGN.md if not existing, and follow it for the next time.
+
+---
+
+## DESIGN.md Documentation
+
+When creating or updating a DESIGN.md file, follow this structure:
+
+```markdown
+# Design: [App Name]
+
+## Overview
+[1-2 sentences describing the application]
+
+## Platform
+- **Primary:** [web | mobile | desktop]
+- **Frameworks:** [e.g., Next.js, React Native]
+- **UI Library:** [e.g., shadcn/ui, Material UI]
+
+---
+
+## Style Guide
+
+### Colors
+| Token | Value | Usage |
+|-------|-------|-------|
+| primary | #XXXXXX | Primary brand color, CTAs |
+| background | #XXXXXX | Page backgrounds |
+| foreground | #XXXXXX | Primary text |
+| ... | ... | ... |
+
+### Typography
+| Token | Font | Size | Weight | Usage |
+|-------|------|------|--------|-------|
+| heading | [Font] | [sizes] | [weights] | Headlines |
+| body | [Font] | [sizes] | [weights] | Paragraphs |
+
+### Spacing & Radius
+Document spacing scale and border radius values.
+
+---
+
+## Components
+Document each component: purpose, variants, states, props, accessibility.
+
+## Layouts
+Document layout patterns with responsive behavior.
+
+## Screens
+Document each screen: route, purpose, components used, states.
+
+## Design Decisions
+Document the "why" behind significant design choices.
+```
+
+**Rules:**
+- Use exact hex codes, pixel values, font names
+- Document all variants and states
+- No placeholders ("TBD", "TODO")
+- Explain design decisions
 
 ## Color System
 

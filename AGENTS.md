@@ -12,7 +12,7 @@
 
 - Work on ONE feature at a time
 - Follow TDD, write tests before coding
-- Before designing any components use ui-design skill
+- **MANDATORY:** Load ui-design skill (`skill ui-design`) before ANY component styling, CSS, or visual design work
 - Update `feature_list.json` status as you progress
 - Run verification after each significant change
 - Record evidence when verification passes
